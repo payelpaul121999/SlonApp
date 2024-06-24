@@ -11,3 +11,5 @@ val PurpleGrey40 = Color(0xFF625b71)
 val Grey40 = Color(0xFF504B58)
 val Pink40 = Color(0xFF7D5260)
 val BlurShado40 = Color(0xFF8910E0)
+
+val Zinc = Color(0xFF3D54D6)

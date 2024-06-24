@@ -38,6 +38,7 @@ import com.pal.slonapp.R
 import com.pal.slonapp.ui.theme.Purple80
 
 
+/*
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun SignUpScreen(navController: NavController){
@@ -73,14 +74,16 @@ fun SignUpScreen(navController: NavController){
                 Icon(Icons.Filled.AccountBox, "", tint = Purple80)
             },
             label = { Text("Full Name") },
-            colors = TextFieldDefaults.textFieldColors(
+            */
+/*colors = TextFieldDefaults.textFieldColors(
                 textColor = Color.Gray,
                 disabledTextColor = Color.Transparent,
                 backgroundColor = Color.White,
                 focusedIndicatorColor = Color.Transparent,
                 unfocusedIndicatorColor = Color.Transparent,
                 disabledIndicatorColor = Color.Transparent
-            ),
+            )*//*
+,
 
         )
         Spacer(modifier = Modifier.height(14.dp))
@@ -167,4 +170,4 @@ fun SignUpScreen(navController: NavController){
             )
         }
     }
-}
+}*/
